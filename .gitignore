@@ -1,0 +1,44 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+FirstApp/dist
+FirstApp/tmp
+FirstApp/out-tsc
+FirstApp/bazel-out
+
+# Node
+FirstApp/node_modules
+FirstApp/npm-debug.log
+FirstApp/yarn-error.log
+Server/node_modules
+
+
+# IDEs and editors
+FirstApp/.idea/
+FirstApp/.project
+FirstApp/.classpath
+FirstApp/.c9/
+FirstApp/*.launch
+FirstApp/.settings/
+FirstApp/*.sublime-workspace
+
+# Visual Studio Code
+FirstApp/.vscode/*
+FirstApp/!.vscode/settings.json
+FirstApp/!.vscode/tasks.json
+FirstApp/!.vscode/launch.json
+FirstApp/!.vscode/extensions.json
+FirstApp/.history/*
+
+# Miscellaneous
+FirstApp/.angular/cache
+FirstApp/.sass-cache/
+FirstApp/connect.lock
+FirstApp/coverage
+FirstApp/libpeerconnection.log
+FirstApp/testem.log
+FirstApp/typings
+
+# System files
+FirstApp/.DS_Store
+FirstApp/Thumbs.db
